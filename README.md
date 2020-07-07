@@ -1,4 +1,24 @@
-# vue-test
+# sptek_vue_template_1.6
 
+## Project setup
+```
+yarn install
+```
 
-# git clone https://github.com/zzous/vue-test.git
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
