@@ -7,7 +7,7 @@
 				show-empty
 				empty-text="No Data"
 			>
-				<template v-slot:table-colgroup="scope">
+				<template v-slot>
 					<col :style="{ width: '90px' }">
 					<col >
 					<col :style="{ width: '150px' }">
